@@ -1,6 +1,7 @@
 # Hola, Bienvenidos a mi Git
 ### Hi there 👋
-![Avatar](https://github.com/vanevrb/vanevrb/blob/master/img.png)
+
+![Avatar](https://github.com/vanevrb/vanevrb/blob/master/analytics.png)
 
 <!--
 **vanevrb/vanevrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
