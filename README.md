@@ -1,14 +1,18 @@
 # Hola, Bienvenidos a mi Git
 ### Hi there 👋
 
-👩‍💼  Estudiante de Maestria de Ingenieria de sistemas
 
-# Images in ReadFile
+# 👩‍💼  Estudiante de Maestria de Ingenieria de sistemas
 
-<img width="200" alt="analisis" src="https://github.com/vanevrb/vanevrb/blob/master/analytics.png"> 💁‍♀️ Desarrollo aplicaciones web dentro de nuestra estrategia de desarrollo de productos.
+<img width="200" alt="analisis" src="https://github.com/vanevrb/vanevrb/blob/master/student.png"> 
 
 
-desarrollo de aplicaciones web dentro de nuestra estrategia de desarrollo de productos
+# 💁‍♀️ Desarrollo aplicaciones web dentro de estrategias de desarrollo de productos.
+
+<img width="200" alt="analisis" src="https://github.com/vanevrb/vanevrb/blob/master/analytics.png"> 
+
+
+🔭 Este es Mi primer Markdown ... para conocer la sintaxis Markdown ingresa a [¿Que es Markdown ... ?](https://www.twitch.tv/videos/699621601).
 
 <!--
 
