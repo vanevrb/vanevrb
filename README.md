@@ -1,4 +1,4 @@
-# Hola Bienvenidos a mi Git
+# Hola, Bienvenidos a mi Git
 ### Hi there 👋
 
 <!--
