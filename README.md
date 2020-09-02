@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 
-# 👩‍💼  Estudiante de Maestria de Ingenieria de sistemas
+# 👩‍💼  Estudiante de Maestria de Ingenieria de sistemas.
 
 <img width="200" alt="analisis" src="https://github.com/vanevrb/vanevrb/blob/master/student.jpg"> 
 
