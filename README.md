@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--
-**Visitor Count :**
+**Visitor Count :**-->
 <br>
 ![Visitor Count](https://profile-counter.glitch.me/vanevrb/count.svg) 
--->
+
 <p align="center">
 	<img src=https://github-readme-stats.vercel.app/api?username=vanevrb&show_icons=true alt=Elangovan />
 </p>
