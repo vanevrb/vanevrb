@@ -1,14 +1,11 @@
 # Hola, Bienvenidos a mi Git
 ### Hi there 👋
-<img  alt="analisis" src="https://github.com/vanevrb/vanevrb/blob/master/banner2.png"> 
+<img  alt="analisis" src="https://github.com/vanevrb/vanevrb/blob/master/banner.png"> 
 <br>
 <p align="center">
 	<img src=https://github-readme-stats.vercel.app/api?username=vanevrb&show_icons=true alt=vanevrb />
-<!--
-	
-![Alt text](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
--->	
+
 </p>
 <br>
 
@@ -24,21 +21,17 @@
 <br>
 <p align="center">
 
-# 👩‍💼  Estudiante de Maestria de Ingenieria de sistemas.
+**👩‍💼  Estudiante de Maestria de Ingenieria de sistemas.**<br>
+**💁‍♀️ Desarrollo aplicaciones web dentro de estrategias de desarrollo de productos.**
 
-<img width="200" alt="analisis" src="https://github.com/vanevrb/vanevrb/blob/master/student.jpg"> 
-</p>
-<p align="center">
-
-
-# 💁‍♀️ Desarrollo aplicaciones web dentro de estrategias de desarrollo de productos.
-
-<img width="200" alt="analisis" src="https://github.com/vanevrb/vanevrb/blob/master/analytics.png"> 
 
 
 <!--
 🔭 Este es Mi primer Markdown ... para conocer la sintaxis Markdown ingresa a [¿Que es Markdown ... ?](https://www.twitch.tv/videos/699621601).
 </p>
+<img width="200" alt="analisis" src="https://github.com/vanevrb/vanevrb/blob/master/student.jpg"> 
+</p>
+<p align="center"><img width="200" alt="analisis" src="https://github.com/vanevrb/vanevrb/blob/master/analytics.png"> 
 
 ![Avatar](https://github.com/vanevrb/vanevrb/blob/master/analytics.png)
 
@@ -54,6 +47,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+	
+![Alt text](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+	
 -->
 <!--
 **Visitor Count :**
