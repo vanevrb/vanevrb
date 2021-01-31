@@ -1,8 +1,18 @@
+<div align="center">
 <img  alt="analisis" src="https://github.com/vanevrb/vanevrb/blob/master/banner.png">
-
-### Hi there 👋
 <br>
+
+ <h1> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+</div>
+
+<br>
+
 <p align="center">
+	 <a href="https://twitter.com/ingvanevrb" target="_blank">
+    <img align="center" alt="Vanessa Rodruguez" | Twitter" width="41px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  </a>
+	<br>
+
 	<img src=https://github-readme-stats.vercel.app/api?username=vanevrb&show_icons=true alt=vanevrb />
 
 
