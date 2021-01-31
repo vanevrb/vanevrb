@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 <!--
 **Visitor Count :**
 <br>
-
-![Visitor Count](https://profile-counter.glitch.me/{vanevrb}/count.svg) 
 -->
+![Visitor Count](https://profile-counter.glitch.me/vanevrb/count.svg) 
+
