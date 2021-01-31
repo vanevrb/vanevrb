@@ -40,34 +40,11 @@
 
 
 <!--
-🔭 Este es Mi primer Markdown ... para conocer la sintaxis Markdown ingresa a [¿Que es Markdown ... ?](https://www.twitch.tv/videos/699621601).
-</p>
-<img width="200" alt="analisis" src="https://github.com/vanevrb/vanevrb/blob/master/student.jpg"> 
-</p>
-<p align="center"><img width="200" alt="analisis" src="https://github.com/vanevrb/vanevrb/blob/master/analytics.png"> 
-
-![Avatar](https://github.com/vanevrb/vanevrb/blob/master/analytics.png)
-
-**vanevrb/vanevrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 	
-![Alt text](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 	
 -->
-<!--
-**Visitor Count :**
--->
+
 <br>
 <div style="text-align: right"> 
 
@@ -76,5 +53,7 @@ Here are some ideas to get you started:
 
 </div>
 
+<div style="text-align: center"> 
 
-
+![Alt text](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+</div>
