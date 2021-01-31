@@ -35,5 +35,8 @@ Here are some ideas to get you started:
 **Visitor Count :**
 <br>
 -->
+<p align="center">
+	<img src=https://github-readme-stats.vercel.app/api?username=vanevrb&show_icons=true alt=vanevrb />
+  
 <b Style="text-align:right;">![Visitor Count](https://profile-counter.glitch.me/vanevrb/count.svg) <b>
-
+</p>
