@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 **Visitor Count :**
 <br>
 -->
-![Visitor Count](https://profile-counter.glitch.me/vanevrb/count.svg) 
+<b Style="text-align:right;">![Visitor Count](https://profile-counter.glitch.me/vanevrb/count.svg) <b>
 
