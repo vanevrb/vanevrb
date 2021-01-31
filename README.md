@@ -34,7 +34,7 @@
 	
 ![](https://profile-counter.glitch.me/vanevrb/count.svg) 
 
-![Alt text](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+![Alt text](https://octodex.github.com/images/mona-lovelace.jpg "Mona Lovelace")
 
 </div>
 <p align="center">
