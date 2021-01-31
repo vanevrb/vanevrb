@@ -3,6 +3,7 @@
 
 
 # 👩‍💼  Estudiante de Maestria de Ingenieria de sistemas.
+<p align="center">
 
 <img width="200" alt="analisis" src="https://github.com/vanevrb/vanevrb/blob/master/student.jpg"> 
 
@@ -10,7 +11,6 @@
 # 💁‍♀️ Desarrollo aplicaciones web dentro de estrategias de desarrollo de productos.
 
 <img width="200" alt="analisis" src="https://github.com/vanevrb/vanevrb/blob/master/analytics.png"> 
-
 
 🔭 Este es Mi primer Markdown ... para conocer la sintaxis Markdown ingresa a [¿Que es Markdown ... ?](https://www.twitch.tv/videos/699621601).
 
@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 **Visitor Count :**
 <br>
 -->
-<p align="center">
+
 	<img src=https://github-readme-stats.vercel.app/api?username=vanevrb&show_icons=true alt=vanevrb />
   
-<b Style="text-align:right;">![Visitor Count](https://profile-counter.glitch.me/vanevrb/count.svg) <b>
+![Visitor Count](https://profile-counter.glitch.me/vanevrb/count.svg) 
 </p>
