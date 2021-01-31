@@ -31,6 +31,9 @@
 <div align="center">
 <h3>💻 Qlik Sense Developer | 🌏 Colombia | 👩‍💼  Estudiante de Maestria de Ingenieria de sistemas. <br>
 💁‍♀️ Desarrollo aplicaciones web dentro de estrategias de desarrollo de productos.</h3>
+	
+![](https://profile-counter.glitch.me/vanevrb/count.svg) 
+
 </div>
 <p align="center">
 
@@ -64,15 +67,14 @@ Here are some ideas to get you started:
 -->
 <!--
 **Visitor Count :**
-<br>-->
+-->
+<br>
 <div style="text-align: right"> 
-
-![](https://profile-counter.glitch.me/vanevrb/count.svg) 
-</div>
 
 
 [![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.me/)
 
+</div>
 
 
 
