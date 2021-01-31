@@ -34,6 +34,8 @@
 	
 ![](https://profile-counter.glitch.me/vanevrb/count.svg) 
 
+![Alt text](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+
 </div>
 <p align="center">
 
@@ -51,9 +53,4 @@
 
 [![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.me/)
 
-</div>
-
-<div style="text-align: center"> 
-
-![Alt text](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 </div>
