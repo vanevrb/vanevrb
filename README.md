@@ -1,6 +1,15 @@
 # Hola, Bienvenidos a mi Git
 ### Hi there 👋
-<img  alt="analisis" src="https://github.com/vanevrb/vanevrb/blob/master/banner1.png"> 
+<img  alt="analisis" src="https://github.com/vanevrb/vanevrb/blob/master/banner2.png"> 
+<br>
+<p align="center">
+	<img src=https://github-readme-stats.vercel.app/api?username=vanevrb&show_icons=true alt=vanevrb />
+<!--
+	
+![Alt text](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+
+-->	
+</p>
 <br>
 
 <code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></a></code>
@@ -57,12 +66,6 @@ Here are some ideas to get you started:
 
 [![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.me/)
 
-<p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=vanevrb&show_icons=true alt=vanevrb />
-	
-![Alt text](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
-	
-</p>
 
 
