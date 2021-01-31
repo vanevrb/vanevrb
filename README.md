@@ -31,3 +31,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
+**Visitor Count :**
+<br>
+
+![Visitor Count](https://profile-counter.glitch.me/{vanevrb}/count.svg) 
+-->
