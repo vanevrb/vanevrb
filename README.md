@@ -8,12 +8,11 @@
 <br>
 
 <p align="center">
-	 <a href="https://twitter.com/ingvanevrb" target="_blank">
-    <img align="center" alt="Vanessa Rodruguez" | Twitter" width="41px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+	<a href="https://twitter.com/ingvanevrb" target="_blank">
+	<img align="center" alt="Vanessa Rodruguez" | Twitter" width="41px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
   </a>
 <br>
 <img src=https://github-readme-stats.vercel.app/api?username=vanevrb&show_icons=true alt=vanevrb />
-
 
 </p>
 <br>
@@ -38,14 +37,6 @@
 
 </div>
 <p align="center">
-
-
-
-<!--
-
-	
-	
--->
 
 <br>
 <div style="text-align: right"> 
