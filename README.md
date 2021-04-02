@@ -1,7 +1,4 @@
 <div align="center">
-<img  alt="analisis" src="https://github.com/vanevrb/vanevrb/blob/master/banner.png">
-
-<br>
 <div align="center">
 <img align="center" width="100%" alt="analisis" src="https://github.com/vanevrb/vanevrb/blob/master/programando2.gif">
 </div>
