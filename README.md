@@ -1,8 +1,12 @@
 <div align="center">
 <img  alt="analisis" src="https://github.com/vanevrb/vanevrb/blob/master/banner.png">
-<br>
 
- <h1> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<br>
+<div align="center">
+<img align="center"  alt="analisis" src="https://github.com/vanevrb/vanevrb/blob/master/programando.gif">
+</div>
+	
+<h1> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 </div>
 
 <br>
