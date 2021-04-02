@@ -13,7 +13,7 @@
 	<img align="center" alt="Vanessa Rodruguez" | Twitter" width="41px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
   </a>
 <br>
-<img src=https://github-readme-stats.vercel.app/api?username=vanevrb&show_icons=true alt=vanevrb />
+<img src=https://github-readme-stats.vercel.app/api?username=vanevrb&show_icons=true&theme=tokyonight alt=vanevrb />
 
 </p>
 <br>
@@ -32,8 +32,9 @@
 <h3>💻 Qlik Sense Developer | 🌏 Colombia | 👩‍💼  Estudiante de Maestria de Ingenieria de sistemas. <br>
 💁‍♀️ Desarrollo aplicaciones web dentro de estrategias de desarrollo de productos.</h3>
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanevrb&langs_count=8)](https://github.com/vanevrb/github-readme-stats)
-	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanevrb&langs_count=8&theme=tokyonight)](https://github.com/vanevrb/github-readme-stats)
+
+
 ![](https://profile-counter.glitch.me/vanevrb/count.svg) 
 
 ![Alt text](https://github.com/vanevrb/vanevrb/blob/master/creada.svg "Mona Lovelace")
