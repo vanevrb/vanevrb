@@ -36,7 +36,7 @@
 	
 ![](https://profile-counter.glitch.me/vanevrb/count.svg) 
 
-![Alt text](https://octodex.github.com/images/mona-lovelace.jpg "Mona Lovelace")
+![Alt text](https://github.com/vanevrb/vanevrb/blob/master/creada.svg "Mona Lovelace")
 
 </div>
 <p align="center">
