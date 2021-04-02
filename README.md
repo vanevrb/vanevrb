@@ -1,6 +1,6 @@
 <div align="center">
 <div align="center">
-<img align="center" width="100%" alt="analisis" src="https://github.com/vanevrb/vanevrb/blob/master/programando3.gif">
+<img align="center" width="100%" alt="analisis" src="https://github.com/vanevrb/vanevrb/blob/master/banner3.gif">
 </div>
 	
 <h1> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
