@@ -43,9 +43,8 @@
 <p align="center">
 
 <br>
-<div style="text-align: right"> 
+<div style="text-align: center; Background-color:white; border-radius:5px;"> 
 
-
-[![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.me/)
+[![](https://cdn.buymeacoffee.com/assets/img/home-page-v3/bmc-new-logo.png)](https://www.buymeacoffee.com/vane)
 
 </div>
